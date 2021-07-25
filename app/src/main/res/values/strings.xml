@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LoanCalculator</string>
+    <string name="txtBtnPayment">Payment</string>
+    <string name="hintNumberYears">Number of Years</string>
+    <string name="hintLoanAmount">Loan Amount $</string>
+    <string name="hintInterestRate">Interest Rate % </string>
+    <string name="txtMonthlyPayment">Monthly Payment</string>
+    <string name="txtTitle">Loan Details</string>
+    <string name="txtImage">Image</string>
+    <string name="txtToolMonthlyPayment">Monthly Payment $520</string>
+</resources>
